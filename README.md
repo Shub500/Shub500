@@ -1,7 +1,7 @@
 
 👋 Hey there! I'm a Computer Science student at Cornell University.
 
-✨ Currently, I'm diving deep into:
+✨ Currently, I'm working on:
 - Databases and Query Optimization
 - Graph-Based Reasoning with LLMs
 - Siamese Networks for Text Classifications
